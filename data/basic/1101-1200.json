@@ -700,7 +700,15 @@
     "title": "1184. 즐거운 생활",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1188",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1188/thumbnail_202x120_da576c21-1cd9-417f-9ba8-35ae032e8cc9.jpg",
-    "rate": "9.78",
+    "rate": "9.79",
     "date": "2019.08.19"
+  },
+  "1189": {
+    "id": "1189",
+    "title": "1185. 일찐다짱제",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1189",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1189/thumbnail_202x120_019600e3-b865-4d1b-a97e-8eb721139ee4.jpg",
+    "rate": "9.75",
+    "date": "2019.08.26"
   }
 }
