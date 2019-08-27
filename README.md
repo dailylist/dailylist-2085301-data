@@ -10,7 +10,7 @@ https://dailylist.github.io/channels/2085301/
 ## 데이터 수정 방법
 주의: 아래 사용하는 에피소드 번호는 '마음의소리' 번외편 추가등 이유로 '마음의소리' 만화 안에 또는 제목에 표시한 회차 번호와 다릅니다.
 
-259번 이후부터 4개씩 차이남.
+259번 이후부터 4개씩 차이남.  
 259번 = 255회  
 260번 = 256회  
 ...  
@@ -22,7 +22,7 @@ https://dailylist.github.io/channels/2085301/
 `/data/extend/xxx.json` 파일을 열고,
 안에 있는 대응하는 회차의 `tags`의 값에 태그를 추가하고 삭제하면 됩니다.
 
-예:
+예: [1101-1200.json](https://github.com/dailylist/dailylist-2085301-data/blob/draft/data/extend/1101-1200.json)
 ```json
 ...
 "1182": {
