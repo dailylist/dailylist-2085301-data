@@ -668,7 +668,7 @@
     "title": "1180. 무브무브",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1184",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1184/thumbnail_202x120_1446879b-2516-454b-9e7b-37336508cebb.jpg",
-    "rate": "9.82",
+    "rate": "9.83",
     "date": "2019.07.22"
   },
   "1185": {
@@ -708,7 +708,7 @@
     "title": "1185. 일찐다짱제",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1189",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1189/thumbnail_202x120_019600e3-b865-4d1b-a97e-8eb721139ee4.jpg",
-    "rate": "9.80",
+    "rate": "9.81",
     "date": "2019.08.26"
   },
   "1190": {
@@ -716,7 +716,23 @@
     "title": "1186. 공포의 집",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1190",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1190/thumbnail_202x120_52fd0621-1b56-4440-8dea-4579e1cbc225.jpg",
-    "rate": "9.72",
+    "rate": "9.78",
     "date": "2019.09.02"
+  },
+  "1191": {
+    "id": "1191",
+    "title": "1187. 자판기 당번",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1191",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1191/thumbnail_202x120_0189c73b-dfd1-42ff-a422-b51bc708f641.jpg",
+    "rate": "9.85",
+    "date": "2019.09.09"
+  },
+  "1192": {
+    "id": "1192",
+    "title": "1188. 비밀 치킨",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1192",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1192/thumbnail_202x120_af999c16-4328-408d-aceb-c2c9f6908de3.jpg",
+    "rate": "9.85",
+    "date": "2019.09.16"
   }
 }
