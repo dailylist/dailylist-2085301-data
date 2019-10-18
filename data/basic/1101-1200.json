@@ -732,7 +732,31 @@
     "title": "1188. 비밀 치킨",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1192",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1192/thumbnail_202x120_af999c16-4328-408d-aceb-c2c9f6908de3.jpg",
-    "rate": "9.85",
+    "rate": "9.87",
     "date": "2019.09.16"
+  },
+  "1193": {
+    "id": "1193",
+    "title": "1189. 첫사랑니",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1193",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1193/thumbnail_202x120_df5f668a-35f9-4ab8-8253-9acec5e2610f.jpg",
+    "rate": "9.86",
+    "date": "2019.09.23"
+  },
+  "1194": {
+    "id": "1194",
+    "title": "1190. 그림 아빠",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1194",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1194/thumbnail_202x120_eb6d45f0-da24-4642-b593-32770a3acff9.jpg",
+    "rate": "9.90",
+    "date": "2019.09.30"
+  },
+  "1195": {
+    "id": "1195",
+    "title": "1191. 시간의 아파트",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1195",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1195/thumbnail_202x120_f1146669-fbdd-44a8-90ab-3954e7ff4a6e.jpg",
+    "rate": "9.87",
+    "date": "2019.10.07"
   }
 }
