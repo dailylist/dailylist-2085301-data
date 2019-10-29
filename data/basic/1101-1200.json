@@ -708,7 +708,7 @@
     "title": "1185. 일찐다짱제",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1189",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1189/thumbnail_202x120_019600e3-b865-4d1b-a97e-8eb721139ee4.jpg",
-    "rate": "9.81",
+    "rate": "9.82",
     "date": "2019.08.26"
   },
   "1190": {
@@ -756,7 +756,23 @@
     "title": "1191. 시간의 아파트",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1195",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1195/thumbnail_202x120_f1146669-fbdd-44a8-90ab-3954e7ff4a6e.jpg",
-    "rate": "9.87",
+    "rate": "9.88",
     "date": "2019.10.07"
+  },
+  "1196": {
+    "id": "1196",
+    "title": "1192. 다른 여자",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1196",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1196/thumbnail_202x120_90b61c26-aa5f-40f6-b6ba-5d0c2c7b62e3.jpg",
+    "rate": "9.89",
+    "date": "2019.10.14"
+  },
+  "1197": {
+    "id": "1197",
+    "title": "1193. 화장실 털이",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1197",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1197/thumbnail_202x120_a6152c87-26a1-4631-8a72-f8a8caff4c7d.jpg",
+    "rate": "9.66",
+    "date": "2019.10.21"
   }
 }
