@@ -724,7 +724,7 @@
     "title": "1187. 자판기 당번",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1191",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1191/thumbnail_202x120_0189c73b-dfd1-42ff-a422-b51bc708f641.jpg",
-    "rate": "9.85",
+    "rate": "9.86",
     "date": "2019.09.09"
   },
   "1192": {
@@ -772,7 +772,23 @@
     "title": "1193. 화장실 털이",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1197",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1197/thumbnail_202x120_a6152c87-26a1-4631-8a72-f8a8caff4c7d.jpg",
-    "rate": "9.66",
+    "rate": "9.69",
     "date": "2019.10.21"
+  },
+  "1198": {
+    "id": "1198",
+    "title": "1194. 불법스캔",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1198",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1198/thumbnail_202x120_ebb0b22c-1ca1-48ea-9ef0-3b680da200b5.jpg",
+    "rate": "9.51",
+    "date": "2019.10.28"
+  },
+  "1199": {
+    "id": "1199",
+    "title": "1195. 상의",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1199",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1199/thumbnail_202x120_e3b94ddb-0f16-424a-a15b-7cad4192abae.jpg",
+    "rate": "9.71",
+    "date": "2019.11.04"
   }
 }
