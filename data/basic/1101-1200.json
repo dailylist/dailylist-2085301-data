@@ -772,7 +772,7 @@
     "title": "1193. 화장실 털이",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1197",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1197/thumbnail_202x120_a6152c87-26a1-4631-8a72-f8a8caff4c7d.jpg",
-    "rate": "9.69",
+    "rate": "9.70",
     "date": "2019.10.21"
   },
   "1198": {
@@ -780,7 +780,7 @@
     "title": "1194. 불법스캔",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1198",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1198/thumbnail_202x120_ebb0b22c-1ca1-48ea-9ef0-3b680da200b5.jpg",
-    "rate": "9.51",
+    "rate": "9.52",
     "date": "2019.10.28"
   },
   "1199": {
@@ -788,7 +788,15 @@
     "title": "1195. 상의",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1199",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1199/thumbnail_202x120_e3b94ddb-0f16-424a-a15b-7cad4192abae.jpg",
-    "rate": "9.71",
+    "rate": "9.72",
     "date": "2019.11.04"
+  },
+  "1200": {
+    "id": "1200",
+    "title": "1196. 키아누 X브스",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1200",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1200/thumbnail_202x120_c19be9e7-23b9-4d00-a842-321893ed9cef.jpg",
+    "rate": "9.74",
+    "date": "2019.11.11"
   }
 }
