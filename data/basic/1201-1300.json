@@ -4,7 +4,23 @@
     "title": "1197. 학예회",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1201",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1201/thumbnail_202x120_32c37570-2e7d-46f2-93a5-c4c208ae31f3.jpg",
-    "rate": "9.82",
+    "rate": "9.84",
     "date": "2019.11.18"
+  },
+  "1202": {
+    "id": "1202",
+    "title": "1198. 성함이…?",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1202",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1202/thumbnail_202x120_4c226e7a-96ab-4b0f-b60c-1fb89e86d1af.jpg",
+    "rate": "9.93",
+    "date": "2019.11.25"
+  },
+  "1203": {
+    "id": "1203",
+    "title": "1199. 백야",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1203",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1203/thumbnail_202x120_1a97bf48-88e3-4c80-adca-02abe80a87c2.jpg",
+    "rate": "9.79",
+    "date": "2019.12.02"
   }
 }
