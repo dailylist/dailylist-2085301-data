@@ -4,7 +4,7 @@
     "title": "1197. 학예회",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1201",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1201/thumbnail_202x120_32c37570-2e7d-46f2-93a5-c4c208ae31f3.jpg",
-    "rate": "9.84",
+    "rate": "9.85",
     "date": "2019.11.18"
   },
   "1202": {
@@ -20,7 +20,7 @@
     "title": "1199. 백야",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1203",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1203/thumbnail_202x120_1a97bf48-88e3-4c80-adca-02abe80a87c2.jpg",
-    "rate": "9.80",
+    "rate": "9.81",
     "date": "2019.12.02"
   },
   "1204": {
@@ -30,5 +30,29 @@
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1204/thumbnail_202x120_c7d17d77-4042-4d63-abae-42c02625c70f.jpg",
     "rate": "9.95",
     "date": "2019.12.09"
+  },
+  "1205": {
+    "id": "1205",
+    "title": "1201. 겨울 옷차림",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1205",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1205/thumbnail_202x120_d250dd16-0970-469e-8f74-9f8df6c68f96.jpg",
+    "rate": "9.85",
+    "date": "2019.12.16"
+  },
+  "1206": {
+    "id": "1206",
+    "title": "1202. 당숙 어르신",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1206",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1206/thumbnail_202x120_c980c18e-3a8c-41dc-9316-fca656d49723.jpg",
+    "rate": "9.77",
+    "date": "2019.12.23"
+  },
+  "1207": {
+    "id": "1207",
+    "title": "1203. 그 동상",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1207",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1207/thumbnail_202x120_9e59228e-d137-45d4-9f1c-cfd5723950bc.jpg",
+    "rate": "9.73",
+    "date": "2019.12.30"
   }
 }
