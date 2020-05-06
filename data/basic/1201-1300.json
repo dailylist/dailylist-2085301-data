@@ -20,7 +20,7 @@
     "title": "1199. 백야",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1203",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1203/thumbnail_202x120_1a97bf48-88e3-4c80-adca-02abe80a87c2.jpg",
-    "rate": "9.81",
+    "rate": "9.82",
     "date": "2019.12.02"
   },
   "1204": {
@@ -52,7 +52,111 @@
     "title": "1203. 그 동상",
     "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1207",
     "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1207/thumbnail_202x120_9e59228e-d137-45d4-9f1c-cfd5723950bc.jpg",
-    "rate": "9.73",
+    "rate": "9.74",
     "date": "2019.12.30"
+  },
+  "1208": {
+    "id": "1208",
+    "title": "1204. 나만의 편지함",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1208",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1208/thumbnail_202x120_45c22700-0c36-4123-8031-208837039ccf.jpg",
+    "rate": "9.84",
+    "date": "2020.01.06"
+  },
+  "1209": {
+    "id": "1209",
+    "title": "1205. 담배주세요",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1209",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1209/thumbnail_202x120_4ba21e34-cf54-46bf-b8e9-d59192886908.jpg",
+    "rate": "9.88",
+    "date": "2020.01.13"
+  },
+  "1210": {
+    "id": "1210",
+    "title": "1206. 요즘 사위",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1210",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1210/thumbnail_202x120_65e96867-f854-4612-89a0-9ba5fb9028bc.jpg",
+    "rate": "9.86",
+    "date": "2020.01.20"
+  },
+  "1216": {
+    "id": "1216",
+    "title": "1212. 배우고 싶었던것",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1216",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1216/thumbnail_202x120_e10daf09-6132-4dd9-8e82-38f297791793.jpg",
+    "rate": "9.90",
+    "date": "2020.03.02"
+  },
+  "1217": {
+    "id": "1217",
+    "title": "1213. 주먹왕",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1217",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1217/thumbnail_202x120_1048248a-83d1-47c9-9e6f-2274d0a6635b.jpg",
+    "rate": "9.88",
+    "date": "2020.03.09"
+  },
+  "1218": {
+    "id": "1218",
+    "title": "1214. 천하제일 장기대회",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1218",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1218/thumbnail_202x120_90130b6b-5eec-462a-a3b9-755aceff660a.jpg",
+    "rate": "9.78",
+    "date": "2020.03.16"
+  },
+  "1219": {
+    "id": "1219",
+    "title": "1215. 두발자유",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1219",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1219/thumbnail_202x120_eeaf253b-d6e9-49fe-a657-fb66510c51ef.jpg",
+    "rate": "9.81",
+    "date": "2020.03.23"
+  },
+  "1220": {
+    "id": "1220",
+    "title": "1216. 택배",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1220",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1220/thumbnail_202x120_6d2f0a1f-e3e7-4eab-b5a1-e3aafdf144b2.jpg",
+    "rate": "9.79",
+    "date": "2020.03.30"
+  },
+  "1221": {
+    "id": "1221",
+    "title": "1217. 무안경",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1221",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1221/thumbnail_202x120_c22ba7ab-f774-4ece-b1fb-477adf22bf1e.jpg",
+    "rate": "9.88",
+    "date": "2020.04.06"
+  },
+  "1222": {
+    "id": "1222",
+    "title": "1218. 매직 VS 매직",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1222",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1222/thumbnail_202x120_670b78a0-c9e4-4bdc-9a8c-01097bc9c200.jpg",
+    "rate": "9.72",
+    "date": "2020.04.13"
+  },
+  "1223": {
+    "id": "1223",
+    "title": "1219. 활동",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1223",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1223/thumbnail_202x120_56a1ad4a-55e8-4b09-a4e8-e5eb49e47612.jpg",
+    "rate": "9.76",
+    "date": "2020.04.20"
+  },
+  "1224": {
+    "id": "1224",
+    "title": "1220. 재택근무",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1224",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1224/thumbnail_202x120_07b935bc-c3cf-4bf2-ae88-ad4ea3943110.jpg",
+    "rate": "9.88",
+    "date": "2020.04.27"
+  },
+  "1225": {
+    "id": "1225",
+    "title": "1221. 어머니를 모셔와",
+    "url": "https://comic.naver.com/webtoon/detail.nhn?titleId=20853&no=1225",
+    "thumbnail": "https://shared-comic.pstatic.net/thumb/webtoon/20853/1225/thumbnail_202x120_bf0522cb-a51b-4ca9-bb8d-6a9970c157c9.jpg",
+    "rate": "9.75",
+    "date": "2020.05.04"
   }
 }
